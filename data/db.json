@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "This is my first",
+      "body": "This is the first article of my collection",
+      "author": "Mario"
+    },
+    {
+      "id": 2,
+      "title": "Second One",
+      "body": "This is the second article of my fine article collection",
+      "author": "Luigi"
+    },
+    {
+      "title": "My New Blog ",
+      "body": "This was added from the application",
+      "author": "mario",
+      "id": 3
+    }
+  ]
+}
